@@ -1,4 +1,5 @@
 @php
+//blade deer model duudahdaa ingej bvh zamiin duudaj zaaj ogno
 $homeslide=App\Models\HomeSlide::find(1);
 
 @endphp
